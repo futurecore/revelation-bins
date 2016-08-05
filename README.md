@@ -8,3 +8,6 @@ It is written in [RPython](https://rpython.readthedocs.io/en/latest/) and based 
 [Pydgin simulator framework](https://github.com/cornell-brg/pydgin).
 
 See the [Revelation repository](https://github.com/futurecore/revelation) for more details.
+
+----
+[![Build Status](https://travis-ci.org/futurecore/revelation-bins.svg?branch=master)](https://travis-ci.org/futurecore/revelation-bins)
